@@ -13,3 +13,4 @@
 3.终端里面运行streamlit run 文件名.py（需要切换到相应的虚拟环境）
 ## 本地效果：
 ![](https://github.com/ChenXi2006/stock_agent/blob/main/1.png)
+![](https://github.com/ChenXi2006/stock_agent/blob/main/2.png)
