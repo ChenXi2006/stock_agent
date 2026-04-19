@@ -8,8 +8,7 @@
 * OpenAI
 * akshare
 ## 运行方法：
-1.创建python环境
-2.复制代码
-3.终端里面运行streamlit run 文件名.py
-
-或者直接访问网页
+1.使用anaconda创建python虚拟环境
+2.复刻代码（ai的api需要自己写入环境）
+3.终端里面运行streamlit run 文件名.py（需要切换到相应的虚拟环境）
+## 本地效果：
